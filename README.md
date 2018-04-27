@@ -14,7 +14,7 @@ Also, make sure you change the code signing to your own one.
 
 So if you follow the folder placement you will only need to change the username in that that route.
 
-/Users/DBS/Deskop/Empty/build1/ becomes /Users/%YOURUSERNAME%/Empty/VuforiaCloud/build1/
+/Users/DBS/Deskop/EmptyUnity/build1/ becomes /Users/%YOURUSERNAME%/Desktop/EmptyUnity/build1/
 
 Then you can follow the instructions below to reproduce the errror.
  
