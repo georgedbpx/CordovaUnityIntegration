@@ -1,5 +1,7 @@
 # CordovaUnityIntegration
 
+Download and extract files from here - https://george.dbpx.co/empty.zip
+
 "empty" folder (put on desktop) - the cordova project - the Xcode project is under platforms/iOS folder
 
 "EmptyUnity" folder (put on desktop) - the Unity project
